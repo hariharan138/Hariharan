@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.15",
+    "xlsx": "^0.18.5"
+  }
+}
