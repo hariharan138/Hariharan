@@ -141,12 +141,12 @@
   
   /* Project 2 */
   .card:nth-child(2) {
-    background: url(./assets/project/yt.png) center center/cover;
+    background: url(./assets/project/trust.png) center center/cover;
   }
   
   /* Project 3 */
   .card:nth-child(3) {
-    background: url(./assets/project/dino.png) center center/cover;
+    background: url(./assets/project/sharetext.png) center center/cover;
   }
   
   /* Project 4 */
@@ -161,7 +161,25 @@
   
   /* Project 6 */
   .card:nth-child(6) {
+    background: url(./assets/project/yt.png) center center/cover;
+  }
+  .card:nth-child(7) {
     background: url(./assets/project/Screenshot\ \(42\).png) center center/cover;
+  }
+  .card:nth-child(8) {
+    background: url(./assets/project/quiz.png) center center/cover;
+  }
+  .card:nth-child(9) {
+    background: url(./assets/project/dino.png) center center/cover;
+  }
+  .card:nth-child(10) {
+    background: url(./assets/project/todo.png) center center/cover;
+  }
+  .card:nth-child(11) {
+    background: url(./assets/project/admin.png) center center/cover;
+  }
+  .card:nth-child(12) {
+    background: url(./assets/project/calc.png) center center/cover;
   }
   
   /* Media Queries */

@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.9",
     "xlsx": "^0.18.5"
-    
+  },
+  "scripts": {
+    "start": "node contact/mail.js"
   }
-  
 }
