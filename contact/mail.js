@@ -75,7 +75,7 @@ server.listen(3000, (err) => {
 
 // Function to save form data to Excel
 function saveToExcel(data) {
-    const filePath = './formData.xlsx'; // Path to the Excel file
+    const filePath = './contact/formData.xlsx'; // Path to the Excel file
 
     let workbook;
     let worksheet;
